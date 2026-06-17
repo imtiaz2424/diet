@@ -1,0 +1,6 @@
+{
+  "name": "ANEXSOPZ",
+  "description": "ANEXSOPZ - Eat Well, Feel Great! A comprehensive app combining personalized diet planning, emotion-based lifestyle feedback, nearby restaurants, mood journals, and local volunteer emergency helper support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
